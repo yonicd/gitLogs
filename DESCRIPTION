@@ -1,0 +1,26 @@
+Package: gitLogs
+Type: Package
+Title: Introspection of R Package Description Files on Github
+Version: 0.0.1
+Date: 2017-04-11
+Author: Jonathan Sidi [aut, cre]
+Maintainer: Jonathan Sidi <yonis@metrumrg.com>
+Description: Introspection of R Package Description Files on Github
+Depends:
+    R (>= 2.3.0)
+Imports:
+  utils,
+  igraph,
+  ggraph,
+  tidytext,
+  jsonlite,
+  magrittr,
+  reshape2,
+  dplyr
+License: GPL-2 | GPL-3
+URL: https://github.com/yonicd/gitLogs
+BugReports: https://github.com/yonicd/gitLogs/issues
+LazyData: true
+NeedsCompilation: no
+Packaged: 2017-01-31 14:00:00 UTC; Yoni
+RoxygenNote: 6.0.1

@@ -1,0 +1,22 @@
+tokens=c('Package','Type','Imports','Depends','URL','Packaged','Suggests',
+         'Description','Date/Publication','Date','Publication',
+         'Collate','Authors@R','Enhances','Title','ZipData','biocViews',
+         'LinkingTo','Remotes','Maintainer','SystemRequirements',
+         'AuthorUrl','License','LazyData','Author','Extends','RoxygenNote',
+         'VignetteBuilder','swsModuleDepends','Note','Notes','Encoding',
+         'Version','Recommends','Tags','AggregateMethods','AssignMethods',
+         'BugReports','MailingList','BinaryFiles','Lazyload','Repository',
+         'Contributors','Additional_repositories','BiocViews','RemoteSha',
+         'Creator','Contents','NeedsCompilation','Roxygen','Copyright',
+         'RcppModules','Requires','BuildVignettes','Additional_Repositories',
+         'Archs','OS_type','ByteCompile','SystemRequirement','cache',
+         'swsDatasetDepends','LazyLoad','SuggestsNote','Recommended','Authors',
+         'Biarch','DependsSplus','HowToCite','ImportFrom','Uses',
+         'Require','SystemDepends','Remote','DependsNote','LinksTo','Comment',
+         'Dialect','Keywords','LazyDataCompression',
+         'Log-Exceptions','BioViews')
+
+authorTokens<-c('email','from','Your','Name','with','contributions',
+                'Who','wrote','it','person','Some','good','guy','See','AUTHORS','file','Author',
+                'Please','feel','free','to','contact','Dr','Scientific','Software','Development',
+                'under','the','supervision','of','wrten','-shim','AuthorR','AuthorsR','many','others')
